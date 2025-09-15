@@ -3,12 +3,11 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Tejas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tejas-patil-623430218//)](https://www.linkedin.com/in/tejas-patil-623430218//)
-[![Website Badge](https://img.shields.io/badge/WebSite-Tejas-green)](https://tp-the-developer.github.io/Tejas_Portfolio/)
+[![Website Badge](https://img.shields.io/badge/WebSite-Tejas-green)](https://tejas-p-28.github.io/portfolio/)
 
 
 I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, HTML5, CSS3, Javascript, Responsive, UX),database(MongoDB,Mysql)
+Enthusiastic and detail-oriented professional with hands-on experience in Machine Learning, Python development, and Data Analysis at a tech startup. Skilled in building ML models, preprocessing data, and extracting insights using tools like Pandas, NumPy, and Matplotlib. Passionate about solving real-world problems using data-driven approaches and eager to contribute to innovative AI solutions.
 
 
 <p align="center"> 
