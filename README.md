@@ -23,15 +23,7 @@
 
 ---
 
-### 🏆 GitHub Trophies
 
-<!-- <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tejas-p-28&theme=darkhub&column=7&margin-w=10"/>
-  </a>
-</p> -->
-![Commits](https://img.shields.io/badge/Commits-1000%2B-blue?style=for-the-badge)
-![Projects](https://img.shields.io/badge/Projects-10-green?style=for-the-badge)
 
 
 
