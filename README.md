@@ -30,10 +30,11 @@
     <img src="https://github-profile-trophy.vercel.app/?username=tejas-p-28&theme=darkhub&column=7&margin-w=10"/>
   </a>
 </p> -->
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=tejas-p-28&show_icons=true&theme=tokyonight)
 
-### 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=tejas-p-28&theme=darkhub&no-frame=true&margin-w=10)
+
 
 ---
 
