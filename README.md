@@ -25,11 +25,15 @@
 
 ### 🏆 GitHub Trophies
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=tejas-p-28&theme=darkhub&column=7&margin-w=10"/>
   </a>
-</p>
+</p> -->
+
+### 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=tejas-p-28&theme=darkhub&no-frame=true&margin-w=10)
 
 ---
 
